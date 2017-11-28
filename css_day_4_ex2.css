@@ -1,0 +1,123 @@
+
+body {
+	margin: 0;
+}
+ #logo{
+ 	width: 120px;
+ 	height: 40px;
+ 	margin-left: 27px;
+ 	margin-top: 13px;
+
+ }
+
+ .searchbar  {
+ 	display: flex;
+ 	margin-left: 51px;
+ 	height: 35px;
+ 	text-align: center;
+ 	margin-top: 10px; 	
+ 	width: 660px;
+ }
+
+
+
+ #alle {
+ 	width: 50px;
+ 	height: 35px;
+ 
+ 	font-size: 20px;
+ 	font-weight: 
+
+
+
+
+
+ }
+ #header input {
+ 	width: 556px;
+ 	height: 28px;
+ 	margin-top: 4px;
+ 	margin-right: 0;
+ 	align-content: right;
+ }
+
+ #header {
+ 	display: flex;
+ 	background-color: #24303D;
+ 	height: 60px;
+ 	color: #9E9E9E;
+ 	margin-bottom: 0 auto;
+ 	padding-left: 27px;
+ 	width: auto;
+ 
+ 	
+ }
+ #header #primelogo{
+ 	align-content: right;
+ 	width: 368px;
+ 	height: 40px;
+ 	margin-top: 13px;
+ 	margin-left: 8px;
+ 	margin-right: 8px;
+ }
+ #header #lupe {
+ 	align-content: left;
+ 	margin-top: 13px;
+ 	height: 35px;
+ 	width: 46px;
+ 	margin-right: 20px;
+ 	margin-left: 0;
+ }
+ nav li {
+ 	color: #9E9E9E;
+ 	font-size: 13px;
+ 	font-family: arial;
+ 	display: inline-flex;
+ 	margin-top: 0 auto;
+ 	padding-top: 0;
+ 	display: inline-block;
+ }
+
+ nav img{ 
+ 	float: right;
+ 	margin-right:  26px;
+ 	width:91px;
+ 	height:29px;
+ 	align-content: center;
+
+
+ }
+
+ nav{
+ 	background-color: #24303D;
+ 	height: 50px;
+ 	padding-top: 10px;
+ 	width: 100%;
+
+ }
+ #navbar b{
+ 	color: white;
+ }
+
+ #navbar{
+ 	display: inline-flex;
+ 	
+ 	display: flex;
+ }
+#specials{
+	display: flex;
+	background-color: #EAEDED;
+	margin-top: 0;
+}
+.spec{
+	width: 240px;
+	height: 280px;
+	margin-left: 10px;
+
+}
+#echo{
+	margin-bottom: 0;
+	background-color: #EAEDED;
+}
+
+
